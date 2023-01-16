@@ -1,0 +1,51 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #091f36;
+}
+.container {
+  border: solid;
+  text-align: center;
+  background-color: #ffa8B6;
+  align-content: center;
+  margin: auto;
+  width: 75%;
+  border-radius: 25px;
+  
+}
+div {
+  align-content: center;
+  border: solid;
+}
+.title{
+  font-size: 1.5em;
+  background-color: #feb300;
+  font-family: 'Rowdies', cursive;
+}
+.movie {
+  font-family: 'Righteous', cursive;
+}
+.movie1 {
+  background-color: #edf756;
+  font-family: 'Righteous', cursive;
+  
+}
+.movie2 {
+  background-color: #9df9ef;
+  font-family: 'Righteous', cursive;
+
+}
+.movie3 {
+  background-color: #a28089;
+  font-family: 'Righteous', cursive;
+  
+}
+.movie4 {
+  background-color: #fbe3e8;
+  font-family: 'Righteous', cursive;
+}
+.movie5 {
+  background-color: #c89666;
+  font-family: 'Righteous', cursive;
+  
+}
